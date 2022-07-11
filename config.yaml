@@ -59,6 +59,10 @@ contact: team@carpentries.org
 
 # Order of episodes in your lesson 
 episodes: 
+- introduction.md
+- Why research Twitter?
+- Setting up your twarc
+- Looking at a tweet
 
 # Information for Learners
 learners: 
